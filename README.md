@@ -6,7 +6,7 @@
 
 ### The **master** branch shows a clean development environment for React Single-Page Applications
 
-## Instructions for downloading the right materials for the tutorial you want to use
+## Instructions for downloading the right materials for the tutorial you want to use can be found below
 
 ### For users familiar with **git** use the following instructions
 
