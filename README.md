@@ -1,7 +1,7 @@
 # React Tutorials
 
-# Attention! In order that you can work on the tutorials you need to have NodeJS and npm(comes together with node) installed on your computer
-# For this tutorials I used NodeJS 12.16.1 LTS version, I recommend using the same so that you can avoid running into any issues
+## Attention!!! In order that you can work on the tutorials you need to have NodeJS and npm(comes together with node) installed on your computer
+## For this tutorials I used NodeJS 12.16.1 LTS version, I recommend using the same so that you can avoid running into any issues
 
 ## This project is used with different video tutorials
 
