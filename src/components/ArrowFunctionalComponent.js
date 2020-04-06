@@ -1,9 +1,10 @@
 import React from "react";
 
-const ArrowFunctionalComponent = () => {
+const ArrowFunctionalComponent = (props) => {
+  const {text} = props;
   return (
     <div style={{ backgroundColor: "yellow", color: "black" }}>
-      I am an arrow functional component
+    {text || "Default value"}
     </div>
   );
 };

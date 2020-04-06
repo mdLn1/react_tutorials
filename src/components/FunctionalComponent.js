@@ -1,9 +1,12 @@
 import React from "react";
 
-function FunctionalComponent() {
+function FunctionalComponent(props) {
+  const {text, name} = props;
   return (
     <div style={{ backgroundColor: "green", color: "white" }}>
-      I am a functional component
+      {text || "Default value"}
+      {"\n"}
+      {name || "No name for now"}
     </div>
   );
 }
